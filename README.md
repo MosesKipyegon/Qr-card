@@ -25,8 +25,8 @@ Seemed simple html css but actualy it is simple you just have to think around it
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MosesKipyegon/Qr-component-main)
-- Live Site URL: [Add live site URL here](https://6324cde0748e56240f18cf8d--celadon-sunburst-7917f5.netlify.app/)
+- Solution URL: [https://github.com/MosesKipyegon/Qr-card](https://github.com/MosesKipyegon/Qr-component-main)
+- Live Site URL: [https://6324cde0748e56240f18cf8d--celadon-sunburst-7917f5.netlify.app/](https://6324cde0748e56240f18cf8d--celadon-sunburst-7917f5.netlify.app/)
 
 ## My process
 
